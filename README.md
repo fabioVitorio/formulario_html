@@ -1,4 +1,4 @@
-# FORMULÁRIO EM HTML
+# FORMULÁRIO EM HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
 
 Primeiro formulário feito em HTML
 <br>
